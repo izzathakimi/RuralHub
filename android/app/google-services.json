@@ -1,43 +1,27 @@
 {
   "project_info": {
-    "project_number": "12455198823",
-    "project_id": "henshin-197b5",
-    "storage_bucket": "henshin-197b5.appspot.com"
+    "project_number": "291284635293",
+    "firebase_url": "https://ruralhub-6c76d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ruralhub-6c76d",
+    "storage_bucket": "ruralhub-6c76d.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:12455198823:android:76377d896179dcd72254c2",
+        "mobilesdk_app_id": "1:291284635293:android:8802bc802f511d0d1b8e74",
         "android_client_info": {
-          "package_name": "com.henshin.henshinapp"
+          "package_name": "com.ruralhub.ruralhubapp"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "12455198823-shvr6rnp5os9cjbqjl05eu3aqre3qlhs.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBfKAs3vKn7vDG6PAURFfqwp_C1Bs02DY8"
+          "current_key": "AIzaSyAxy5uBiRGgLocc2xpvnqOlBRokXrW8QOU"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "12455198823-shvr6rnp5os9cjbqjl05eu3aqre3qlhs.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "12455198823-b3i0k44lqq349fqflb3tb2di9pvt6sql.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.henshin"
-              }
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
