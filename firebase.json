@@ -3,14 +3,14 @@
     "platforms": {
       "android": {
         "default": {
-          "projectId": "ruralhub",
+          "projectId": "ruralhub-6c76d",
           "appId": "1:291284635293:android:8802bc802f511d0d1b8e74",
           "fileOutput": "android/app/google-services.json"
         }
       },
       "dart": {
         "lib/firebase_options.dart": {
-          "projectId": "ruralhub",
+          "projectId": "ruralhub-6c76d",
           "configurations": {
             "android": "1:291284635293:android:8802bc802f511d0d1b8e74"
           }
